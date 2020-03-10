@@ -350,3 +350,13 @@ img {
   background: #FFFFFF;
   color: #17A2B8;
 }
+
+form {
+  font-size: 3.5vw;
+  color: green;
+  text-shadow: .2vw .2vw black;
+}
+
+input {
+  font-size: 2vw;
+}
